@@ -1,0 +1,2 @@
+# Syncthing
+Syncthing in Docker
